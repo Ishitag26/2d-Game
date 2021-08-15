@@ -14,7 +14,7 @@ This is a basic BreakOut Brick 2D Game.
 ### Links
 
 - Solution URL: https://github.com/Ishita-gup123/2d-Game.git
-- Live Site URL: http://127.0.0.1:5501/index.html
+- Live Site URL: https://breakoutthebrick.netlify.app/
 
 ## My process
 
